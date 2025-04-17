@@ -2,9 +2,9 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
-[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://carlosrojas.github.io/quiet-star_manuscript/)
-[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://carlosrojas.github.io/quiet-star_manuscript/manuscript.pdf)
-[![GitHub Actions Status](https://github.com/carlosrojas/quiet-star_manuscript/workflows/Manubot/badge.svg)](https://github.com/carlosrojas/quiet-star_manuscript/actions)
+[![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://carlosrojas.github.io/quiet-star-manuscript/)
+[![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://carlosrojas.github.io/quiet-star-manuscript/manuscript.pdf)
+[![GitHub Actions Status](https://github.com/carlosrojas/quiet-star_manuscript/workflows/Manubot/badge.svg)](https://github.com/carlosrojas/quiet-star-manuscript/actions)
 
 ## Manuscript description
 
